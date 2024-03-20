@@ -26,4 +26,4 @@ look factory
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
-In summary, constructors are used with the new keyword to create instances of objects with shared properties and methods, while factory functions are regular functions that return objects and can be more flexible in their implementation.
+In summary, constructors are used with the new keyword to create instances of objects with shared properties and methods, while factory functions are regular functions that return objects and can be more flexible in their implementation .
